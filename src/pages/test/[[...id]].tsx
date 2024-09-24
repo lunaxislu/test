@@ -102,7 +102,6 @@ export const getServerSideProps = async (ctx: GetServerSidePropsContext) => {
   return {
     props: {
       url: ctx.req.url,
-      isSSR: true,
     },
   };
 };
