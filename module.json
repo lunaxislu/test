@@ -1,0 +1,13 @@
+{
+  "name": "Calendar",
+  "version": "0.1.0",
+  "description": "A customizable calendar component using Day.js",
+  "packageManager": "pnpm",
+  "isSrcDir": true,
+  "type": "pages-router",
+  "isRsc": false,
+  "isTsx": true,
+  "isUsingAppDir": false,
+  "styleType": "Tailwind",
+  "pathResolve": "https://github.com/lunaxislu/cli-calendar-lib/tree/main/src/components/typescript/calendar-tw"
+}
